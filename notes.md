@@ -1,0 +1,3 @@
+- I don't yet understand how the app works exactly, mostly in terms of getting multiple stock symbols
+- I need to see how stock comparison works and the role of the "like" in the whole app
+- Further system auditing is required and I will work on this tomorrow
